@@ -1,0 +1,20 @@
+body {
+    background: url("../img/tlo.jpeg") no-repeat top center #1D1520;
+    background-size: 100%
+}
+
+.navbar-inverse {
+    background-color: #1D1520;
+}
+
+.panel-default {
+    border: 1px solid ;
+    border-color: #FF3500;
+    border-radius: 6px;
+}
+
+.panel-body {
+    background-color: #231E22;
+    color: #7E8386;
+    border-radius: 5px;
+}
