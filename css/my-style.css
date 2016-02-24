@@ -3,6 +3,10 @@ body {
     background-size: 100%
 }
 
+h3 {
+    margin-top: 0px;
+}
+
 .navbar-inverse {
     background-color: #1D1520;
 }
@@ -17,4 +21,8 @@ body {
     background-color: #231E22;
     color: #7E8386;
     border-radius: 5px;
+}
+
+.row {
+    margin-bottom: 30px;
 }
