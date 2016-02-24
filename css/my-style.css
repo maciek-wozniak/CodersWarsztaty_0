@@ -7,6 +7,29 @@ h3 {
     margin-top: 0px;
 }
 
+h4 {
+    margin-top: 0px;
+    margin-bottom: 20px;
+    color: #FF3500;
+}
+
+.zadania li {
+    padding: 5px;
+}
+
+ul {
+    list-style-type: disc;
+}
+
+
+.panel-body ul {
+    padding-bottom: 10px;
+}
+
+dd {
+    margin-bottom: 20px;
+}
+
 .navbar-inverse {
     background-color: #1D1520;
 }
